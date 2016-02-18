@@ -1,5 +1,5 @@
 {
-    "name": "kleiram/axon",
+    "name": "ericlagarda/axon",
     "description": "Easy torrent search engine using multiple torrent sites",
     "keywords": ["kickass", "piratebay", "torrent", "download"],
     "type": "library",
@@ -8,6 +8,10 @@
             {
                 "name": "Ramon Kleiss",
                 "email": "ramonkleiss@gmail.com"
+            },
+            {
+                "name": "Eric Lagarda",
+                "email": "info@ericlagarda.com"
             }
     ],
     "require": {
